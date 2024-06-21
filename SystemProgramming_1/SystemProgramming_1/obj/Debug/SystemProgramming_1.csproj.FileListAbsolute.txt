@@ -1,0 +1,7 @@
+C:\Users\dmytro\Desktop\Git\System_Programming_Classwork_1\SystemProgramming_1\SystemProgramming_1\bin\Debug\SystemProgramming_1.exe.config
+C:\Users\dmytro\Desktop\Git\System_Programming_Classwork_1\SystemProgramming_1\SystemProgramming_1\bin\Debug\SystemProgramming_1.exe
+C:\Users\dmytro\Desktop\Git\System_Programming_Classwork_1\SystemProgramming_1\SystemProgramming_1\bin\Debug\SystemProgramming_1.pdb
+C:\Users\dmytro\Desktop\Git\System_Programming_Classwork_1\SystemProgramming_1\SystemProgramming_1\obj\Debug\SystemProgramming_1.csproj.AssemblyReference.cache
+C:\Users\dmytro\Desktop\Git\System_Programming_Classwork_1\SystemProgramming_1\SystemProgramming_1\obj\Debug\SystemProgramming_1.csproj.CoreCompileInputs.cache
+C:\Users\dmytro\Desktop\Git\System_Programming_Classwork_1\SystemProgramming_1\SystemProgramming_1\obj\Debug\SystemProgramming_1.exe
+C:\Users\dmytro\Desktop\Git\System_Programming_Classwork_1\SystemProgramming_1\SystemProgramming_1\obj\Debug\SystemProgramming_1.pdb
